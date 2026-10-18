@@ -19,7 +19,7 @@ cybersecurity, and IT systems administration.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Systems Administration & Endpoint Management
 - NinjaOne RMM & IT Ticketing
@@ -52,36 +52,36 @@ cybersecurity, and IT systems administration.
 
 ---
 
-## 🚀 Featured IT Projects
+## Featured IT Projects
 
-### 1. Apple Device Management
+### [Apple Device Management & Deployment](https://github.com/LSosa04/apple-device-management-development)
 Implemented Apple Business Manager and Mosyle MDM
 for approximately 50 company-owned iPads.
 
-### 2. NinjaOne RMM Implementation
+### [NinjaOne RMM Implementation](https://github.com/LSosa04/ninjaone-rmm-implementation)
 Independently deployed NinjaOne across 41 endpoints,
 establishing monitoring, remote access, and
 IT ticketing capabilities.
 
-### 3. Network Infrastructure
+### [Network Infrastructure & Troubleshooting](https://github.com/LSosa04/network-infrastructure-projects)
 Hands-on experience with CAT5/CAT6 cabling,
 patch panels, switches, wireless access points,
 PoE, and network troubleshooting.
 
-### 4. Procore Implementation
+### [Procore Implementation & Administration](https://github.com/LSosa04/procore-implementation-administration)
 Led the implementation and administration of
 Procore's Project Management module, supporting
 more than 80 employees across office and
 field operations.
 
-### 5. Lumber Timeclock Implementation
+### [Lumber Software Implementation](https://github.com/LSosa04/lumber-software-implementation)
 Supported the rollout and adoption of Lumber
 for employee time tracking and construction
 job-based labor reporting.
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 **Georgia Gwinnett College**
 - Second-Year Student
@@ -98,7 +98,7 @@ job-based labor reporting.
 
 ---
 
-## 🎯 Career Goals
+## Career Goals
 
 My goal is to continue developing my technical
 expertise in networking, cybersecurity, and
@@ -111,7 +111,7 @@ operate more efficiently.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - GitHub: Explore my repositories and projects
 
